@@ -2,6 +2,10 @@
 
 A collection of AI agents for various tasks.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/valado-pantheon-mcp).
+
 ## Getting Started 🚀
 
 Welcome to the agents repository! This project contains various AI agent definitions. The definitions can be used by any agentic system that supports markdown.
